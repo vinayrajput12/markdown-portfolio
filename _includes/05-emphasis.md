@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+1. *I love learning new things*
+2.  _I can do anything if i put my mind to it_
+3.   __*Hard work ✨* is my Nick Name__ 
